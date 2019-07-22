@@ -1,0 +1,1295 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.15)  22 JUL 2019 11:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**stocks-0-samsungsds.tex
+(./stocks-0-samsungsds.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count91
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+\c@bookmark@seq@number=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count97
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen109
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip11
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks16
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks17
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen118
+\WF@size=\dimen119
+\c@WF@wrappedlines=\count112
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count113
+\@cmidlb=\count114
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count115
+\@lastruleclass=\count116
+\@thisrulewidth=\dimen132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen134
+\captionmargin@=\dimen135
+\captionwidth=\dimen136
+\caption@tempdima=\dimen137
+\caption@indent=\dimen138
+\caption@parindent=\dimen139
+\caption@hangindent=\dimen140
+)
+\c@ContinuedFloat=\count117
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks21
+\float@box=\box29
+\@float@everytoks=\toks22
+\@floatcapt=\box30
+)
+No file stocks-0-samsungsds.aux.
+\openout1 = `stocks-0-samsungsds.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring ON on input line 49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+\@outlinefile=\write3
+\openout3 = `stocks-0-samsungsds.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen141
+\scratchbox=\box32
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen142
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 54.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 54.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+
+
+LaTeX Warning: Reference `fig:rawandfit' on page 1 undefined on input line 62.
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_raw_data.pdf, id=4, 455.7025pt x 227.8
+5126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_raw_data.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_raw_data.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_raw_data.pdf u
+sed on input line 70.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_all.pdf, id=5, 455.7025pt x 227.85126p
+t>
+File: stocks-0-samsungsds/stocks-0-samsungsds_all.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_all.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_all.pdf used o
+n input line 70.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 69--72
+[][] 
+ []
+
+
+LaTeX Warning: Reference `table:stats' on page 1 undefined on input line 77.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 84.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_1_short_description.tex)
+(./stocks-0-samsungsds/stocks-0-samsungsds_2_short_description.tex)
+(./stocks-0-samsungsds/stocks-0-samsungsds_3_short_description.tex) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./stocks-0-samsungsds/stoc
+ks-0-samsungsds_raw_data.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_all.pd
+f>]
+(./stocks-0-samsungsds/stocks-0-samsungsds_4_short_description.tex)
+(./stocks-0-samsungsds/stocks-0-samsungsds_5_short_description.tex)
+(./stocks-0-samsungsds/stocks-0-samsungsds_6_short_description.tex)
+Overfull \hbox (15.87407pt too wide) in paragraph at lines 101--126
+ [] 
+ []
+
+
+LaTeX Warning: Reference `table:check' on page 2 undefined on input line 132.
+
+
+LaTeX Warning: Reference `sec:check' on page 2 undefined on input line 132.
+
+
+LaTeX Warning: Reference `sec:discussion' on page 2 undefined on input line 136
+.
+
+
+LaTeX Warning: Reference `sec:extrap' on page 2 undefined on input line 137.
+
+
+LaTeX Warning: Reference `sec:check' on page 2 undefined on input line 138.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 143.
+(./stocks-0-samsungsds/stocks-0-samsungsds_1_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_1.pdf, id=42, 455.7025pt x 227.85126pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1.pdf used on 
+input line 157.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_1_cum.pdf, id=43, 455.7025pt x 227.851
+26pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1_cum.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1_cum.pdf used
+ on input line 157.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 156--159
+[][] 
+ []
+
+[2]
+<stocks-0-samsungsds/stocks-0-samsungsds_1_anti_cum.pdf, id=54, 455.7025pt x 22
+7.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1_anti_cum.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1_anti_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1_anti_cum.pdf
+ used on input line 169.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_2_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_2.pdf, id=55, 455.7025pt x 227.85126pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2.pdf used on 
+input line 189.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_2_cum.pdf, id=56, 455.7025pt x 227.851
+26pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2_cum.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2_cum.pdf used
+ on input line 189.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 188--191
+[][] 
+ []
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_2_anti_cum.pdf, id=57, 455.7025pt x 22
+7.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2_anti_cum.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2_anti_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2_anti_cum.pdf
+ used on input line 201.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+[3 <./stocks-0-samsungsds/stocks-0-samsungsds_1.pdf> <./stocks-0-samsungsds/sto
+cks-0-samsungsds_1_cum.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_1_anti_c
+um.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_2.pdf> <./stocks-0-samsungsd
+s/stocks-0-samsungsds_2_cum.pdf>]
+(./stocks-0-samsungsds/stocks-0-samsungsds_3_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_3.pdf, id=126, 455.7025pt x 227.85126p
+t>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3.pdf used on 
+input line 221.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_3_cum.pdf, id=127, 455.7025pt x 227.85
+126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3_cum.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3_cum.pdf used
+ on input line 221.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 220--223
+[][] 
+ []
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_3_anti_cum.pdf, id=128, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3_anti_cum.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3_anti_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3_anti_cum.pdf
+ used on input line 233.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_4_description.tex) [4 <./stocks-0-sa
+msungsds/stocks-0-samsungsds_2_anti_cum.pdf> <./stocks-0-samsungsds/stocks-0-sa
+msungsds_3.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_3_cum.pdf> <./stocks
+-0-samsungsds/stocks-0-samsungsds_3_anti_cum.pdf>]
+<stocks-0-samsungsds/stocks-0-samsungsds_4.pdf, id=186, 455.7025pt x 227.85126p
+t>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4.pdf used on 
+input line 253.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_4_cum.pdf, id=187, 455.7025pt x 227.85
+126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4_cum.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4_cum.pdf used
+ on input line 253.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 252--255
+[][] 
+ []
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_4_anti_cum.pdf, id=188, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4_anti_cum.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4_anti_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4_anti_cum.pdf
+ used on input line 265.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_5_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_5.pdf, id=189, 455.7025pt x 227.85126p
+t>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5.pdf used on 
+input line 285.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_5_cum.pdf, id=190, 455.7025pt x 227.85
+126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5_cum.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5_cum.pdf used
+ on input line 285.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 284--287
+[][] 
+ []
+
+[5 <./stocks-0-samsungsds/stocks-0-samsungsds_4.pdf> <./stocks-0-samsungsds/sto
+cks-0-samsungsds_4_cum.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_4_anti_c
+um.pdf>]
+<stocks-0-samsungsds/stocks-0-samsungsds_5_anti_cum.pdf, id=226, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5_anti_cum.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5_anti_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5_anti_cum.pdf
+ used on input line 297.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_6_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_6.pdf, id=227, 455.7025pt x 227.85126p
+t>
+File: stocks-0-samsungsds/stocks-0-samsungsds_6.pdf Graphic file (type pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_6.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_6.pdf used on 
+input line 317.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_6_cum.pdf, id=228, 455.7025pt x 227.85
+126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_6_cum.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_6_cum.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_6_cum.pdf used
+ on input line 317.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 316--319
+[][] 
+ []
+
+
+LaTeX Warning: Reference `fig:extrap' on page 6 undefined on input line 326.
+
+[6 <./stocks-0-samsungsds/stocks-0-samsungsds_5.pdf> <./stocks-0-samsungsds/sto
+cks-0-samsungsds_5_cum.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_5_anti_c
+um.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_6.pdf> <./stocks-0-samsungsd
+s/stocks-0-samsungsds_6_cum.pdf>]
+File: stocks-0-samsungsds/stocks-0-samsungsds_all.pdf Graphic file (type pdf)
+
+<use stocks-0-samsungsds/stocks-0-samsungsds_all.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_all.pdf used o
+n input line 336.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_all_sample.pdf, id=270, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_all_sample.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_all_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_all_sample.pdf
+ used on input line 336.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 335--338
+[][] 
+ []
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_1_extrap_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_1_extrap.pdf, id=271, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1_extrap.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1_extrap.pdf u
+sed on input line 355.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_1_sample.pdf, id=272, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1_sample.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1_sample.pdf u
+sed on input line 355.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_1_cum_extrap.pdf, id=273, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1_cum_extrap.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1_cum_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1_cum_extrap.p
+df used on input line 356.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_1_cum_sample.pdf, id=274, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_1_cum_sample.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_1_cum_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_1_cum_sample.p
+df used on input line 356.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 354--358
+[][] 
+ []
+
+[7 <./stocks-0-samsungsds/stocks-0-samsungsds_all_sample.pdf>]
+(./stocks-0-samsungsds/stocks-0-samsungsds_2_extrap_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_2_extrap.pdf, id=296, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2_extrap.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2_extrap.pdf u
+sed on input line 372.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_2_sample.pdf, id=297, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2_sample.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2_sample.pdf u
+sed on input line 372.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_2_cum_extrap.pdf, id=298, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2_cum_extrap.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2_cum_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2_cum_extrap.p
+df used on input line 373.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_2_cum_sample.pdf, id=299, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_2_cum_sample.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_2_cum_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_2_cum_sample.p
+df used on input line 373.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 371--375
+[][] 
+ []
+
+[8 <./stocks-0-samsungsds/stocks-0-samsungsds_1_extrap.pdf> <./stocks-0-samsung
+sds/stocks-0-samsungsds_1_sample.pdf> <./stocks-0-samsungsds/stocks-0-samsungsd
+s_1_cum_extrap.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_1_cum_sample.pdf
+>] (./stocks-0-samsungsds/stocks-0-samsungsds_3_extrap_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_3_extrap.pdf, id=354, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3_extrap.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3_extrap.pdf u
+sed on input line 389.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_3_sample.pdf, id=355, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3_sample.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3_sample.pdf u
+sed on input line 389.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_3_cum_extrap.pdf, id=356, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3_cum_extrap.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3_cum_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3_cum_extrap.p
+df used on input line 390.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_3_cum_sample.pdf, id=357, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_3_cum_sample.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_3_cum_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_3_cum_sample.p
+df used on input line 390.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 388--392
+[][] 
+ []
+
+(./stocks-0-samsungsds/stocks-0-samsungsds_4_extrap_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_4_extrap.pdf, id=358, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4_extrap.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4_extrap.pdf u
+sed on input line 406.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_4_sample.pdf, id=359, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4_sample.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4_sample.pdf u
+sed on input line 406.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_4_cum_extrap.pdf, id=360, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4_cum_extrap.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4_cum_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4_cum_extrap.p
+df used on input line 407.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_4_cum_sample.pdf, id=361, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_4_cum_sample.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_4_cum_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_4_cum_sample.p
+df used on input line 407.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 405--409
+[][] 
+ []
+
+[9 <./stocks-0-samsungsds/stocks-0-samsungsds_2_extrap.pdf> <./stocks-0-samsung
+sds/stocks-0-samsungsds_2_sample.pdf> <./stocks-0-samsungsds/stocks-0-samsungsd
+s_2_cum_extrap.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_2_cum_sample.pdf
+> <./stocks-0-samsungsds/stocks-0-samsungsds_3_extrap.pdf> <./stocks-0-samsungs
+ds/stocks-0-samsungsds_3_sample.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds
+_3_cum_extrap.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_3_cum_sample.pdf>
+] (./stocks-0-samsungsds/stocks-0-samsungsds_5_extrap_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_5_extrap.pdf, id=466, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5_extrap.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5_extrap.pdf u
+sed on input line 423.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_5_sample.pdf, id=467, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5_sample.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5_sample.pdf u
+sed on input line 423.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_5_cum_extrap.pdf, id=468, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5_cum_extrap.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5_cum_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5_cum_extrap.p
+df used on input line 424.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_5_cum_sample.pdf, id=469, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_5_cum_sample.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_5_cum_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_5_cum_sample.p
+df used on input line 424.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 422--426
+[][] 
+ []
+
+[10 <./stocks-0-samsungsds/stocks-0-samsungsds_4_extrap.pdf> <./stocks-0-samsun
+gsds/stocks-0-samsungsds_4_sample.pdf> <./stocks-0-samsungsds/stocks-0-samsungs
+ds_4_cum_extrap.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_4_cum_sample.pd
+f>] (./stocks-0-samsungsds/stocks-0-samsungsds_6_extrap_description.tex)
+<stocks-0-samsungsds/stocks-0-samsungsds_6_extrap.pdf, id=525, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_6_extrap.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_6_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_6_extrap.pdf u
+sed on input line 440.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_6_sample.pdf, id=526, 455.7025pt x 227
+.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_6_sample.pdf Graphic file (type p
+df)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_6_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_6_sample.pdf u
+sed on input line 440.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_6_cum_extrap.pdf, id=527, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_6_cum_extrap.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_6_cum_extrap.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_6_cum_extrap.p
+df used on input line 441.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_6_cum_sample.pdf, id=528, 455.7025pt x
+ 227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_6_cum_sample.pdf Graphic file (ty
+pe pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_6_cum_sample.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_6_cum_sample.p
+df used on input line 441.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 439--443
+[][] 
+ []
+
+[11 <./stocks-0-samsungsds/stocks-0-samsungsds_5_extrap.pdf> <./stocks-0-samsun
+gsds/stocks-0-samsungsds_5_sample.pdf> <./stocks-0-samsungsds/stocks-0-samsungs
+ds_5_cum_extrap.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_5_cum_sample.pd
+f> <./stocks-0-samsungsds/stocks-0-samsungsds_6_extrap.pdf> <./stocks-0-samsung
+sds/stocks-0-samsungsds_6_sample.pdf> <./stocks-0-samsungsds/stocks-0-samsungsd
+s_6_cum_extrap.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_6_cum_sample.pdf
+>]
+
+LaTeX Warning: Reference `table:check' on page 12 undefined on input line 454.
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_1.pdf, id=606, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_1.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_1.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_1.pd
+f used on input line 506.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_1.pdf, id=607, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_1.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_1.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_1.pd
+f used on input line 506.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_1.pdf, id=608, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_1.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_1.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_1.pdf
+ used on input line 507.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 505--512
+[][] 
+ []
+
+[12]
+<stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_2.pdf, id=617, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_2.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_2.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_2.pd
+f used on input line 526.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_2.pdf, id=618, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_2.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_2.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_2.pd
+f used on input line 526.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_2.pdf, id=619, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_2.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_2.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_2.pdf
+ used on input line 527.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 525--532
+[][] 
+ []
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_3.pdf, id=620, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_3.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_3.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_3.pd
+f used on input line 546.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_3.pdf, id=621, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_3.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_3.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_3.pd
+f used on input line 546.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_3.pdf, id=622, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_3.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_3.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_3.pdf
+ used on input line 547.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 545--552
+[][] 
+ []
+
+[13 <./stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_1.pdf> <./stocks-0-sam
+sungsds/stocks-0-samsungsds_pxx_bands_1.pdf> <./stocks-0-samsungsds/stocks-0-sa
+msungsds_qq_bands_1.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_2
+.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_2.pdf> <./stocks-0-s
+amsungsds/stocks-0-samsungsds_qq_bands_2.pdf>]
+<stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_4.pdf, id=667, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_4.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_4.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_4.pd
+f used on input line 566.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_4.pdf, id=668, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_4.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_4.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_4.pd
+f used on input line 566.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_4.pdf, id=669, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_4.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_4.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_4.pdf
+ used on input line 567.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 565--572
+[][] 
+ []
+
+[14 <./stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_3.pdf> <./stocks-0-sam
+sungsds/stocks-0-samsungsds_pxx_bands_3.pdf> <./stocks-0-samsungsds/stocks-0-sa
+msungsds_qq_bands_3.pdf>]
+<stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_5.pdf, id=695, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_5.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_5.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_5.pd
+f used on input line 586.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_5.pdf, id=696, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_5.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_5.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_5.pd
+f used on input line 586.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_5.pdf, id=697, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_5.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_5.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_5.pdf
+ used on input line 587.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 585--592
+[][] 
+ []
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_6.pdf, id=698, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_6.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_6.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_6.pd
+f used on input line 606.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_6.pdf, id=699, 455.7025pt x 
+227.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_6.pdf Graphic file (typ
+e pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_6.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_6.pd
+f used on input line 606.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_6.pdf, id=700, 455.7025pt x 2
+27.85126pt>
+File: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_6.pdf Graphic file (type
+ pdf)
+ <use stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_6.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_qq_bands_6.pdf
+ used on input line 607.
+(pdftex.def)             Requested size: 172.5012pt x 85.36057pt.
+
+Overfull \hbox (15.4665pt too wide) in paragraph at lines 605--612
+[][] 
+ []
+
+[15 <./stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_4.pdf> <./stocks-0-sam
+sungsds/stocks-0-samsungsds_pxx_bands_4.pdf> <./stocks-0-samsungsds/stocks-0-sa
+msungsds_qq_bands_4.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_5
+.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_pxx_bands_5.pdf> <./stocks-0-s
+amsungsds/stocks-0-samsungsds_qq_bands_5.pdf>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 649.
+
+
+<stocks-0-samsungsds/stocks-0-samsungsds_mmd_1.pdf, id=736, 562.1pt x 421.575pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_mmd_1.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_mmd_1.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_mmd_1.pdf used
+ on input line 656.
+(pdftex.def)             Requested size: 172.4995pt x 85.35559pt.
+ [16 <./stocks-0-samsungsds/stocks-0-samsungsds_acf_bands_6.pdf> <./stocks-0-sa
+msungsds/stocks-0-samsungsds_pxx_bands_6.pdf> <./stocks-0-samsungsds/stocks-0-s
+amsungsds_qq_bands_6.pdf>]
+<stocks-0-samsungsds/stocks-0-samsungsds_mmd_2.pdf, id=763, 562.1pt x 421.575pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_mmd_2.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_mmd_2.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_mmd_2.pdf used
+ on input line 669.
+(pdftex.def)             Requested size: 172.4995pt x 85.35559pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_mmd_3.pdf, id=764, 562.1pt x 421.575pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_mmd_3.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_mmd_3.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_mmd_3.pdf used
+ on input line 682.
+(pdftex.def)             Requested size: 172.4995pt x 85.35559pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_mmd_4.pdf, id=765, 562.1pt x 421.575pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_mmd_4.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_mmd_4.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_mmd_4.pdf used
+ on input line 695.
+(pdftex.def)             Requested size: 172.4995pt x 85.35559pt.
+ [17 <./stocks-0-samsungsds/stocks-0-samsungsds_mmd_1.pdf> <./stocks-0-samsungs
+ds/stocks-0-samsungsds_mmd_2.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_mm
+d_3.pdf>]
+<stocks-0-samsungsds/stocks-0-samsungsds_mmd_5.pdf, id=803, 562.1pt x 421.575pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_mmd_5.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_mmd_5.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_mmd_5.pdf used
+ on input line 708.
+(pdftex.def)             Requested size: 172.4995pt x 85.35559pt.
+
+<stocks-0-samsungsds/stocks-0-samsungsds_mmd_6.pdf, id=804, 562.1pt x 421.575pt
+>
+File: stocks-0-samsungsds/stocks-0-samsungsds_mmd_6.pdf Graphic file (type pdf)
+
+ <use stocks-0-samsungsds/stocks-0-samsungsds_mmd_6.pdf>
+Package pdftex.def Info: stocks-0-samsungsds/stocks-0-samsungsds_mmd_6.pdf used
+ on input line 721.
+(pdftex.def)             Requested size: 172.4995pt x 85.35559pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 727.
+ [18 <./stocks-0-samsungsds/stocks-0-samsungsds_mmd_4.pdf> <./stocks-0-samsungs
+ds/stocks-0-samsungsds_mmd_5.pdf> <./stocks-0-samsungsds/stocks-0-samsungsds_mm
+d_6.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 727.
+
+(./stocks-0-samsungsds.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 727.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 727.
+
+
+Package rerunfilecheck Warning: File `stocks-0-samsungsds.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `stocks-0-samsungsds.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  EC0DE0134AA804D25DF680A8C2043210;3676.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 727.
+ ) 
+Here is how much of TeX's memory you used:
+ 8581 strings out of 493029
+ 140127 string characters out of 6136234
+ 314421 words of memory out of 5000000
+ 11788 multiletter control sequences out of 15000+600000
+ 31327 words of font info for 84 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,12n,39p,848b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on stocks-0-samsungsds.pdf (18 pages, 5297616 bytes).
+PDF statistics:
+ 890 PDF objects out of 1000 (max. 8388607)
+ 643 compressed objects within 7 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+

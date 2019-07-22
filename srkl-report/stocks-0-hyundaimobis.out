@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{Executive summary}{}% 1
+\BOOKMARK [1][-]{section.2}{Detailed discussion of additive components}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Component 1 : A very smooth function. This function applies until 21 Nov 2018 and from 21 Nov 2018 onwards}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Component 2 : A smooth function. This function applies from 20 Sep 2018 until 21 Nov 2018 and from 21 Nov 2018 until 29 Nov 2018}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Component 3 : A smooth function. This function applies until 20 Sep 2018 and from 29 Nov 2018 onwards}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Component 4 : A smooth function. This function applies from 21 Nov 2018 until 21 Nov 2018}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Component 5 : Uncorrelated noise}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Component 6 : A constant}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Extrapolation}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Component 1 : A very smooth function. This function applies until 21 Nov 2018 and from 21 Nov 2018 onwards}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Component 2 : A smooth function. This function applies from 20 Sep 2018 until 21 Nov 2018 and from 21 Nov 2018 until 29 Nov 2018}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Component 3 : A smooth function. This function applies until 20 Sep 2018 and from 29 Nov 2018 onwards}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Component 4 : A smooth function. This function applies from 21 Nov 2018 until 21 Nov 2018}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.5}{Component 5 : Uncorrelated noise}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.6}{Component 6 : A constant}{section.3}% 15
+\BOOKMARK [1][-]{section.4}{Model checking}{}% 16
+\BOOKMARK [2][-]{subsection.4.1}{Model checking plots for components without statistically significant discrepancies}{section.4}% 17
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Component 1 : A very smooth function. This function applies until 21 Nov 2018 and from 21 Nov 2018 onwards}{subsection.4.1}% 18
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Component 2 : A smooth function. This function applies from 20 Sep 2018 until 21 Nov 2018 and from 21 Nov 2018 until 29 Nov 2018}{subsection.4.1}% 19
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Component 3 : A smooth function. This function applies until 20 Sep 2018 and from 29 Nov 2018 onwards}{subsection.4.1}% 20
+\BOOKMARK [3][-]{subsubsection.4.1.4}{Component 4 : A smooth function. This function applies from 21 Nov 2018 until 21 Nov 2018}{subsection.4.1}% 21
+\BOOKMARK [3][-]{subsubsection.4.1.5}{Component 5 : Uncorrelated noise}{subsection.4.1}% 22
+\BOOKMARK [3][-]{subsubsection.4.1.6}{Component 6 : A constant}{subsection.4.1}% 23
+\BOOKMARK [1][-]{section.5}{MMD - experimental section}{}% 24
+\BOOKMARK [2][-]{subsubsection.5.0.1}{Component 1 : A very smooth function. This function applies until 21 Nov 2018 and from 21 Nov 2018 onwards}{section.5}% 25
+\BOOKMARK [3][-]{subsubsection.5.0.2}{Component 2 : A smooth function. This function applies from 20 Sep 2018 until 21 Nov 2018 and from 21 Nov 2018 until 29 Nov 2018}{subsubsection.5.0.1}% 26
+\BOOKMARK [3][-]{subsubsection.5.0.3}{Component 3 : A smooth function. This function applies until 20 Sep 2018 and from 29 Nov 2018 onwards}{subsubsection.5.0.1}% 27
+\BOOKMARK [3][-]{subsubsection.5.0.4}{Component 4 : A smooth function. This function applies from 21 Nov 2018 until 21 Nov 2018}{subsubsection.5.0.1}% 28
+\BOOKMARK [3][-]{subsubsection.5.0.5}{Component 5 : Uncorrelated noise}{subsubsection.5.0.1}% 29
+\BOOKMARK [3][-]{subsubsection.5.0.6}{Component 6 : A constant}{subsubsection.5.0.1}% 30

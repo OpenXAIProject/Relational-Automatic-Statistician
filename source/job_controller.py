@@ -246,7 +246,7 @@ def my_make_predictions(X, y, Xtest, ytest, model, local_computation=False, max_
     # Create prediction code
     parameters ={'datafile': data_file.split('/')[-1],
                  'writefile': '%(output_file)s',
-                 'params_file' : '~/gpss-research-srkl'+txt_filename[2:]+'lvl_'+str(best_depth)+'_0.mat1.mat',
+                 'params_file' : txt_filename+'lvl_'+str(best_depth)+'_0.mat1.mat',
                  'gpml_path': cblparallel.gpml_path(local_computation),
                  'kernel_syntax': model.kernel.get_gpml_expression(dimensions=X.shape[1])
                  #'kernel_params': '[ %s ]' % ' '.join(str(p) for p in model.kernel.param_vector),

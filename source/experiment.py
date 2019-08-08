@@ -158,10 +158,10 @@ def perform_kernel_search(X, y, D, experiment_data_file_name, results_filename, 
                                           subset=exp.subset, subset_size=exp.subset_size, full_iters=exp.full_iters, bundle_size=exp.bundle_size)
             
         # Remove models that were optimised to be out of bounds (this is similar to a 0-1 prior)
-        # new_results = [a_model for a_model in new_results if not a_model.out_of_bounds(data_shape)]
-        # oob_results = [a_model for a_model in new_results if a_model.out_of_bounds(data_shape)]
-        new_results = [a_model for a_model in new_results]
-        oob_results = [a_model for a_model in new_results]
+        new_results = [a_model for a_model in new_results if not a_model.out_of_bounds(data_shape)]
+        oob_results = [a_model for a_model in new_results if a_model.out_of_bounds(data_shape)]
+        #new_results = [a_model for a_model in new_results]
+        #oob_results = [a_model for a_model in new_results]
         oob_results = sorted(oob_results, key=lambda a_model : GPModel.score(a_model, exp.score), reverse=True)
         oob_sequence.append(oob_results)
         
